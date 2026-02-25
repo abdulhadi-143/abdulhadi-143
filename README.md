@@ -132,9 +132,9 @@ After    [░░░░░░░░░░░░░░░░░░░░] Lean Six
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Hadi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@mersin.edu.tr)
-[![Mersin University](https://img.shields.io/badge/University-Mersin%20University-red?style=flat-square)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Hadi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hadi-7097aa2b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:24220400055@mersin.edu.tr)
+[![Mersin University](https://img.shields.io/badge/University-Mersin%20University-red?style=flat-square)](https://www.mersin.edu.tr/)
 
 ---
 
@@ -142,7 +142,7 @@ After    [░░░░░░░░░░░░░░░░░░░░] Lean Six
 
 *Open to research collaborations, internship opportunities, and connecting with fellow engineers.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdulhadi&color=gold&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=abdulhadi-143&color=gold&style=flat-square&label=Profile+Views)
 
 </div>
 
